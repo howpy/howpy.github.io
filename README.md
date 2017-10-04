@@ -1,4 +1,4 @@
-## Welcome to HowPy Pages
+## 欢迎来到 HowPy 页面
 
 You can use the [editor on GitHub](https://github.com/howpy/howpy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
